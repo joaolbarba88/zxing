@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
+desbloquear sistema de chamadas uber dinâmica valores <img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
 
 ## Project in Maintenance Mode Only; Barcode Scanner not available
 
